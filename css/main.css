@@ -1,0 +1,38 @@
+body{
+    background-color: black
+}
+p{
+    color: white;
+}
+h1, h2, h3, h4, h5{
+    color: white;
+}
+a{
+    color: blue;     
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+a:hover{
+    color: yellow;
+}
+table{
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    
+}
+tr{
+    margin-bottom: 50px;
+}
+td{
+    margin-bottom: 50px;
+    width: 400px;
+}
+footer{
+    margin-top: 30px;
+}
+nav{
+    margin-bottom: 30px;
+}
